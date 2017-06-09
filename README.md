@@ -1,4 +1,4 @@
-# q-expoter
+# q-exporter
 
 export csv file data into insert query
 
